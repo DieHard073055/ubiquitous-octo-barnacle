@@ -1,0 +1,18 @@
+These are the information about the pins
+
+
+LED PINS
+
+Pin No.	OFFSET	GPIO
+
+P21	154	3
+P23	044	49
+P26	180	14
+P27	124	115
+
+PUSH BUTTON PINS
+
+P22	150	2
+P24	184	15
+
+
